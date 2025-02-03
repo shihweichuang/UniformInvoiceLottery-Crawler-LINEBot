@@ -60,24 +60,24 @@
 
 抓取資訊：獎別、中獎號碼、中獎號碼說明、頒獎期間。
 
-<img src="https://i.imgur.com/t13Cvia.png" alt="" width="556" height="900">
+<img src="https://i.imgur.com/t13Cvia.png" alt="" width="60%">
 
 
 ### 2. <a href="https://www.fisc.com.tw/TC/News/Content?CAID=8c3e35f6-30d4-4a87-9c16-da80241c1be1&CTID=4f6dccd9-fccd-4ebb-b2ee-2e925bf4fe0f">財金資訊股份有限公司-統一發票兌獎服務</a>
 
 抓取資訊：統一發票實體通路兌獎據點資訊，如獎別、據點、服務時間。
 
-<img src="https://i.imgur.com/4C4a7vs.png" alt="" width="556" height="750">
+<img src="https://i.imgur.com/4C4a7vs.png" alt="" width="60%">
 
 ## 使用方式
 
 1. 輸入 ---> 統一發票中獎<br>
    回傳 ---> 統一發票中獎
-<img src="https://i.imgur.com/c02dztJ.jpeg" alt="Bubble【統一發票中獎】" width="556" height="480">
+<img src="https://i.imgur.com/c02dztJ.jpeg" alt="Bubble【統一發票中獎】" width="60%">
 
 2. 點擊 ---> 統一發票中獎 - 113年 09 ~ 10 月<br>
    帶入 ---> 統一發票中獎：113年 09 ~ 10 月<br>
    回傳 ---> 統一發票中獎：113年 09 ~ 10 月<br>
 <div style="text-align: right;">
-   <img src="https://i.imgur.com/EUVgK8P.jpeg" alt="Bubble【統一發票中獎：113年 09 ~ 10 月 中獎號碼】" width="556" height="480">
+   <img src="https://i.imgur.com/EUVgK8P.jpeg" alt="Bubble【統一發票中獎：113年 09 ~ 10 月 中獎號碼】" width="60%">
 </div>
