@@ -24,9 +24,7 @@
 
 使用 Python 的爬蟲套件(requests, BeautifulSoup)爬取單頁、多頁的資料，再結合 LINE BOT SDK ，以達到本次專案預期功能。
 
-之所以使用 LINE Bot 作為本次專案介面，是根據 <a href="https://datareportal.com/reports/digital-2023-taiwan?_trms=ac920f3ad09a7a33.1693645815116">DIGITAL 2023: TAIWAN</a> 指出 LINE 為台灣占主導地位的社群媒體平台。
-
-透過該介面能夠接觸到更多的潛在使用者。
+之所以使用 LINE Bot 作為本次專案介面，是根據 <a href="https://datareportal.com/reports/digital-2023-taiwan?_trms=ac920f3ad09a7a33.1693645815116">DIGITAL 2023: TAIWAN</a> 指出 LINE 為台灣占主導地位的社群媒體平台。透過該介面能夠接觸到更多的潛在使用者。
 
 此外，LINE Bot 中的呈現方式 (如：Bubble、Carousel) 可以清楚列出文字內容並搭配圖片，有利於使用者進行評估、選擇。
 
@@ -71,13 +69,13 @@
 
 ## 使用方式
 
-1. 輸入 ---> 統一發票中獎<br>
-   回傳 ---> 統一發票中獎
-<img src="https://i.imgur.com/c02dztJ.jpeg" alt="Bubble【統一發票中獎】" width="60%">
+1. 輸入 ---> 文字【統一發票中獎】<br>
+   回傳 ---> 泡泡【統一發票中獎】<br>
+   
+   <img src="https://i.imgur.com/c02dztJ.jpeg" alt="Bubble【統一發票中獎】" width="80%">
 
-2. 點擊 ---> 統一發票中獎 - 113年 09 ~ 10 月<br>
-   帶入 ---> 統一發票中獎：113年 09 ~ 10 月<br>
-   回傳 ---> 統一發票中獎：113年 09 ~ 10 月<br>
-<div style="text-align: right;">
-   <img src="https://i.imgur.com/EUVgK8P.jpeg" alt="Bubble【統一發票中獎：113年 09 ~ 10 月 中獎號碼】" width="60%">
-</div>
+3. 點擊 ---> 泡泡【統一發票中獎】 - 113年 09 ~ 10 月<br>
+   帶入 ---> 文字【統一發票中獎：113年 09 ~ 10 月】<br>
+   回傳 ---> 泡泡【統一發票中獎：113年 09 ~ 10 月】<br>
+   
+   <img src="https://i.imgur.com/EUVgK8P.jpeg" alt="Bubble【統一發票中獎：113年 09 ~ 10 月 中獎號碼】" width="80%">
