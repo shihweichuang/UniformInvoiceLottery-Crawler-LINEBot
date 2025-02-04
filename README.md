@@ -8,6 +8,14 @@
 
 <br>
 
+## 立即體驗
+
+加入 LINE Bot：掃描以下 QR code，或<a href="https://line.me/R/ti/p/@673rabpy">點擊這裡</a>
+
+<img src="https://i.imgur.com/86wnboP.png" alt="統一發票中獎查詢機器人" width="20%">
+
+<br>
+
 ## 專案發想
 
 雖然電子統一發票已逐漸普及，但仍有機會拿到紙本發票，需手動對獎。
