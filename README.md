@@ -2,6 +2,12 @@
 
 <br>
 
+[![觀看操作影片](https://img.youtube.com/vi/rVkbnihDu1A/0.jpg)](https://www.youtube.com/watch?v=rVkbnihDu1A)
+
+[觀看操作影片](https://www.youtube.com/watch?v=rVkbnihDu1A)
+
+<br>
+
 ## 主要功能
 
 使用者在 LINE Bot 中輸入「指定中獎月份」，系統即可回傳「統一發票中獎資訊」。
